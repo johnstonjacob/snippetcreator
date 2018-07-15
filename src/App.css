@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.input-field {
+  margin: 10% 0% 2% 0%;
+}
+.textField{
+  margin-left: 3%;
+}
+
+.editor {
+  margin: 2% 5%;
+}
+
+.copyButton {
+  margin-bottom: 1%;
+}
+
+.snippetOutput {
+  background-color: #ddd;
+  white-space: pre;
+  margin: 0% 5%;
+}
